@@ -1,6 +1,7 @@
 """
-Bagels game - Big book of small python projects
-pg 2 - project 1
+Project 1 - Bagels Game
+Big book of small python projects
+
 Practice using constants
 """
 

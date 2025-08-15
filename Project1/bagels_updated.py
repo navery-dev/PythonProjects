@@ -1,9 +1,11 @@
 """
-Bagels game - Big book of small python projects
-pg 2 - project 1
+Project 1 - Bagels Game
+Big book of small python projects
 
-Updating with Red/Green/Yellow rules
-Fixed guess locations
+Practice using constants
+
+Updating Project with Red/Green/Yellow rules
+Clue locations are fixed, not sorted
 """
 
 import random
