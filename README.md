@@ -27,7 +27,7 @@ Python modules needed for some of the projects can be installed with the below:
 
 Below are all 81 projects from "The Big Book of Small Python Projects" with their learning objectives:
 
-✅ **Project 1 - Bagels**   
+✅ **Project 1 - Bagels** 
 Practice using constants
 
 **Project 2 - Birthday Paradox**  
@@ -40,7 +40,7 @@ Work with multiline strings
 Learn about Unicode characters and code points
 
 **Project 5 - Bouncing DVD Logo**  
-Work with coordinate systems and moving objects
+Work with coordinates and colorful text
 
 **Project 6 - Caesar Cipher**  
 Convert between letters and numbers to perform math on text
@@ -64,25 +64,25 @@ Practice string manipulation and text generation
 Learn about the modulus operator
 
 **Project 13 - Conway's Game of Life**  
-Work with 2D lists and cellular automata
+Use dictionary data structures and screen coordinates
 
 **Project 14 - Countdown**  
-Work with time delays and user input
+Practice importing modules you create
 
 **Project 15 - Deep Cave**  
-Practice using random numbers and animation
+Use string replication and simple math
 
 **Project 16 - Diamonds**  
-Work with loops and string formatting
+Practice your pattern recognition skills to create drawing algorithms
 
 **Project 17 - Dice Math**  
-Practice mathematical calculations and random numbers
+Use dictionary data structures for screen coordinates
 
 **Project 18 - Dice Roller**  
-Work with random numbers and ASCII art
+Parse text to identify key strings
 
 **Project 19 - Digital Clock**  
-Work with time formatting and display
+Generate numbers that match information from the datetime module
 
 **Project 20 - Digital Stream**  
 Experiment with different animation speeds
@@ -91,7 +91,7 @@ Experiment with different animation speeds
 Work with string templates and randomly generated text
 
 **Project 22 - Ducklings**  
-Use object-oriented programming to create a data model
+Use object-oriented programming to create a data model for duck drawings
 
 **Project 23 - Etching Drawer**  
 Work with screen coordinates and relative directional movements
@@ -103,173 +103,173 @@ Use the modulus operator and Python's math module
 Learn about the keyboard buffer
 
 **Project 26 - Fibonacci**  
-Practice mathematical sequences and recursion
+Implement a rudimentary mathematics algorithm
 
 **Project 27 - Fish Tank**  
-Work with animation and ASCII art
+Use screen coordinates, text colors, and data structures
 
 **Project 28 - Flooder**  
-Practice with flood fill algorithms
+Implement the flood fill algorithm
 
 **Project 29 - Forest Fire Sim**  
-Work with 2D grids and simulation
+Create a simulation with adjustable parameters
 
 **Project 30 - Four in a Row**  
-Practice game logic and 2D lists
+Create a data structure that mimics gravity
 
 **Project 31 - Guess the Number**  
-Practice with random numbers and user input validation
+Program basic concepts for beginners
 
 **Project 32 - Gullible**  
-Learn about string methods and user interaction
+Use input validation and loops
 
 **Project 33 - Hacking Minigame**  
-Work with string manipulation and pattern matching
+Add cosmetic features to make a basic game more interesting
 
-**Project 34 - Hangman & Guillotine**  
-Practice string manipulation and game state
+**Project 34 - Hangman and Guillotine**  
+Use string manipulation and ASCII art
 
 **Project 35 - Hex Grid**  
-Work with coordinate systems and patterns
+Use loops to make repeating text patterns
 
 **Project 36 - Hourglass**  
-Practice animation and timing
+Simulate gravity and use collision detection
 
 **Project 37 - Hungry Robots**  
-Work with coordinate systems and collision detection
+Create a simple AI for robot movements
 
 **Project 38 - J'Accuse!**  
-Practice text parsing and game logic
+Use data structures to generate relationships between suspects, places, and item clues
 
 **Project 39 - Langton's Ant**  
-Work with cellular automata and direction changes
+Explore how simple rules create complex graphical patterns
 
 **Project 40 - Leetspeak**  
-Practice string replacement and character mapping
+Use text parsing and string manipulation
 
 **Project 41 - Lucky Stars**  
-Work with random animation and ASCII art
+Practice ASCII art and probability
 
 **Project 42 - Magic Fortune Ball**  
-Practice random selection and user interaction
+Add cosmetic features to make basic text appear more interesting
 
 **Project 43 - Mancala**  
-Work with game logic and list manipulation
+Use ASCII art and string templates to draw a board game
 
 **Project 44 - Maze Runner 2D**  
-Practice pathfinding and 2D navigation
+Read maze data from text files
 
 **Project 45 - Maze Runner 3D**  
-Work with 3D coordinate systems
+Modify multiline strings to display a 3D view
 
-**Project 46 - Million Dice Statistics**  
-Practice statistical analysis and large datasets
+**Project 46 - Million Dice Roll Statistics Simulator**  
+Learn how computers crunch large quantities of numbers
 
 **Project 47 - Mondrian Art Generator**  
-Work with procedural generation and graphics
+Implement an art-generating algorithm
 
-**Project 48 - Monty Hall**  
-Practice probability simulation
+**Project 48 - Monty Hall Problem**  
+Examine probability with ASCII-art goats
 
 **Project 49 - Multiplication Table**  
-Work with nested loops and formatting
+Practice spacing text
 
-**Project 50 - Ninety Nine Bottles**  
-Practice string formatting and loops
+**Project 50 - Ninety-Nine Bottles**  
+Use loops and string templates to produce text
 
-**Project 51 - niNety nniinE BoOttels**  
-Work with text corruption and random changes
+**Project 51 - niNety-nniinE BoOttels**  
+Manipulate strings to introduce distortions
 
-**Project 52 - Numeral Systems**  
-Practice number base conversion
+**Project 52 - Numeral Systems Counters**  
+Use Python's number conversion functions
 
 **Project 53 - Periodic Table of the Elements**  
-Work with data structures and search
+Parse CSV files to load data into a program
 
 **Project 54 - Pig Latin**  
-Practice string manipulation and language rules
+Use text parsing and string manipulation
 
 **Project 55 - Powerball Lottery**  
-Work with random number generation and probability
+Explore probability using random numbers
 
 **Project 56 - Prime Numbers**  
-Practice mathematical algorithms
+Learn math concepts and use Python's math module
 
 **Project 57 - Progress Bar**  
-Work with text animation and formatting
+Use the backspace-printing technique to create animations
 
 **Project 58 - Rainbow**  
-Practice color and text effects
+Create animation for beginners
 
 **Project 59 - Rock Paper Scissors**  
-Work with game logic and user input
+Implement basic game rules as a program
 
 **Project 60 - Rock Paper Scissors (Always-Win Version)**  
-Practice conditional logic and cheating algorithms
+Create the illusion of randomness in a program
 
-**Project 61 - ROT 13 Cipher**  
-Work with character shifting and encryption
+**Project 61 - ROT13 Cipher**  
+Convert between letters and numbers to perform math on text
 
 **Project 62 - Rotating Cube**  
-Practice 3D graphics and mathematics
+Learn 3D rotation and line drawing algorithms
 
 **Project 63 - Royal Game of Ur**  
-Work with ancient game rules and AI
+Use ASCII art and string templates to draw a board game
 
 **Project 64 - Seven-Segment Display Module**  
-Practice ASCII art and number display
+Create modules for use in other programs
 
 **Project 65 - Shining Carpet**  
-Work with pattern generation and animation
+Use loops to make repeating text patterns
 
 **Project 66 - Simple Substitution Cipher**  
-Practice encryption and key generation
+Perform intermediate math on text
 
 **Project 67 - Sine Message**  
-Work with mathematical functions and text effects
+Use a trigonometry function for animation
 
 **Project 68 - Sliding Tile Puzzle**  
-Practice puzzle logic and 2D list manipulation
+Employ a data structure to reflect the state of a game board
 
 **Project 69 - Snail Race**  
-Work with animation and random movement
+Calculate spacing for ASCII art snails
 
 **Project 70 - Soroban Japanese Abacus**  
-Practice mathematical simulation
+Use string templates to create an ASCII-art counting tool
 
 **Project 71 - Sound Mimic**  
-Work with sequence memory and user input
+Play sound files from a Python program
 
 **Project 72 - sPoNgEcAsE**  
-Practice string case manipulation
+Change the casing of letters in strings
 
 **Project 73 - Sudoku Puzzle**  
-Work with constraint satisfaction and game logic
+Model a puzzle with a data structure
 
-**Project 74 - Text To Speech Talker**  
-Practice text processing and system integration
+**Project 74 - Text-to-Speech Talker**  
+Use your operating system's text-to-speech engine
 
 **Project 75 - Three-Card Monte**  
-Work with card shuffling and probability
+Manipulate a data structure based on random movements
 
 **Project 76 - Tic-Tac-Toe**  
-Practice game logic and AI opponents
+Create a data structure and helper functions
 
-**Project 77 - Tower of Hanoi Puzzle**  
-Work with recursion and mathematical puzzles
+**Project 77 - Tower of Hanoi**  
+Use stack data structures to simulate a puzzle state
 
 **Project 78 - Trick Questions**  
-Practice user interaction and string manipulation
+Parse the user's text to recognize keywords
 
-**Project 79 - Twenty Forty Eight**  
-Work with grid-based game logic
+**Project 79 - Twenty Forty-Eight**  
+Simulate gravity to make tiles "fall" in arbitrary directions
 
 **Project 80 - Vigenère Cipher**  
-Practice advanced encryption techniques
+Perform more advanced math on text
 
 **Project 81 - Water Bucket Puzzle**  
-Work with puzzle logic and mathematical thinking
+Use string templates to generate ASCII art
 
 ---
 
-*This repository serves as my personal coding practice space, building upon the foundation provided by the book while adding my own creative touches. In addition, by hosting my practice through Github, I am using this opportunity to practice git*
+*This repository serves as my personal coding practice space, building upon the foundation provided by the book while adding my own creative touches. In addition, by hosting my practice through Github, I am using this opportunity to learn git*
