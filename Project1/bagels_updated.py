@@ -1,11 +1,13 @@
 """
 Project 1 - Bagels Game
-Big book of small python projects
+From "Big Book of Small Python Projects"
 
-Practice using constants
+Project Objective: Practice using constants
 
-Updating Project with Red/Green/Yellow rules
-Clue locations are fixed, not sorted
+My Improvements:
+- Replaced abstract clues (Bagels/Pico/Fermi) with Stoplight color system (Red/Yellow/Green)
+- Changed to position-based feedback - clues now correspond directly to each guessed digit
+- Removed clue sorting to maintain positional clarity
 """
 
 import random
@@ -13,7 +15,7 @@ NUM_DIGITS = 4
 MAX_GUESSES = 10
 
 def main():
-    print('''Numeric Deductive logic game.
+    print('''Numeric Stoplight Deductive logic game.
     I am thinking of a {}-digit number with no repeated digits.
     Try to guess what it is. You have {} guesses.'''.format(NUM_DIGITS, MAX_GUESSES))
     print('''Here are some clues:

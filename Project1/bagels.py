@@ -1,8 +1,8 @@
 """
 Project 1 - Bagels Game
-Big book of small python projects
+From "Big Book of Small Python Projects"
 
-Practice using constants
+Project Objective: Practice using constants
 """
 
 import random
